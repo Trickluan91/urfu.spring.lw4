@@ -30,7 +30,7 @@ public class Request {
     private int communicationId;
 
     private String source;
-    private Systems systemName;
+    private String systemName;
     private Integer templateId;
     private Integer productCode;
     private Integer smsCode;
