@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>ru.trickluan</groupId>
-	<artifactId>spring.lw2</artifactId>
+	<artifactId>spring.lw4</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name/>
 	<description/>

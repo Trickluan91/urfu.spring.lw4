@@ -1,4 +1,4 @@
-package ru.trickluan.spring.lw2.controller;
+package ru.trickluan.spring.lw4.controller;
 
 import jakarta.validation.Valid;
 import lombok.extern.slf4j.Slf4j;
@@ -10,12 +10,12 @@ import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
-import ru.trickluan.spring.lw2.exception.UnsupportedCodeException;
-import ru.trickluan.spring.lw2.exception.ValidationFailedException;
-import ru.trickluan.spring.lw2.model.*;
-import ru.trickluan.spring.lw2.service.ModifyResponseService;
-import ru.trickluan.spring.lw2.service.ValidationService;
-import ru.trickluan.spring.lw2.util.DateTimeUtil;
+import ru.trickluan.spring.lw4.exception.UnsupportedCodeException;
+import ru.trickluan.spring.lw4.exception.ValidationFailedException;
+import ru.trickluan.spring.lw4.model.*;
+import ru.trickluan.spring.lw4.service.ModifyResponseService;
+import ru.trickluan.spring.lw4.service.ValidationService;
+import ru.trickluan.spring.lw4.util.DateTimeUtil;
 
 import java.util.Date;
 

@@ -1,11 +1,11 @@
-package ru.trickluan.spring.lw2.service;
+package ru.trickluan.spring.lw4.service;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
 import org.springframework.validation.BindingResult;
-import ru.trickluan.spring.lw2.exception.UnsupportedCodeException;
-import ru.trickluan.spring.lw2.exception.ValidationFailedException;
-import ru.trickluan.spring.lw2.model.Request;
+import ru.trickluan.spring.lw4.exception.UnsupportedCodeException;
+import ru.trickluan.spring.lw4.exception.ValidationFailedException;
+import ru.trickluan.spring.lw4.model.Request;
 
 @Slf4j
 @Service

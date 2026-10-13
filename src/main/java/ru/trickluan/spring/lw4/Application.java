@@ -1,4 +1,4 @@
-package ru.trickluan.spring.lw2;
+package ru.trickluan.spring.lw4;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

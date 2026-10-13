@@ -1,16 +1,15 @@
-package ru.trickluan.spring.lw2.model;
+package ru.trickluan.spring.lw4.model;
 
 import com.fasterxml.jackson.annotation.JsonValue;
 
-public enum ErrorCodes {
-    EMPTY(""),
-    VALIDATION_EXCEPTION("ValidationException"),
-    UNSUPPORTED_EXCEPTION("UnsupportedException"),
-    UNKNOWN_EXCEPTION("UnknownException"),;
+public enum Systems {
+    ERP("Enterprise Resource Planning"),
+    CRM("Customer Relationship Management"),
+    WMS("Warehouse Management System");
 
     private final String name;
 
-    ErrorCodes(String name) {
+    Systems(String name) {
         this.name = name;
     }
 

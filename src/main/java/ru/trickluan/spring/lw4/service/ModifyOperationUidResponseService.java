@@ -1,9 +1,9 @@
-package ru.trickluan.spring.lw2.service;
+package ru.trickluan.spring.lw4.service;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Service;
-import ru.trickluan.spring.lw2.model.Response;
+import ru.trickluan.spring.lw4.model.Response;
 
 import java.util.UUID;
 

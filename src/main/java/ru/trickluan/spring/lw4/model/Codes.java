@@ -1,4 +1,4 @@
-package ru.trickluan.spring.lw2.model;
+package ru.trickluan.spring.lw4.model;
 
 import com.fasterxml.jackson.annotation.JsonValue;
 

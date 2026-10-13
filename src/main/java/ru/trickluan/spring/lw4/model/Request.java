@@ -1,4 +1,4 @@
-package ru.trickluan.spring.lw2.model;
+package ru.trickluan.spring.lw4.model;
 
 import jakarta.validation.constraints.Max;
 import jakarta.validation.constraints.Min;
